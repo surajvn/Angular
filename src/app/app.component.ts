@@ -12,7 +12,7 @@ export class AppComponent {
   location:string='Ernakulam';
   status:boolean=false;
   myName1='';
-  myRoll=0;
+  myRoll:number=0;
 
   constructor(){
 
